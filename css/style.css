@@ -1,0 +1,46 @@
+* {
+    direction: rtl;
+    font-family: vazir;
+    box-sizing: border-box;
+}
+
+header {
+    background: url(../images/hero_1.jpg) no-repeat center center/cover;
+    /* filter: blur(8px);
+    -webkit-filter: blur(8px); */
+}
+
+.top-slide {
+    height: 100vh;
+}
+.form {
+    background-color: white;
+    border-radius: 0.5rem;
+    padding: 2rem;
+}
+.bg-mycolor{
+    background-color: #7971ea;
+}
+.text-mycolor{
+    color: #7971ea;
+}
+i{
+    width: 20px;
+    height: 20px;
+}
+.custom-icon-wrap{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background: #7971ea;
+}
+.img-person{
+    border-radius: 50%;
+    position: relative;
+    width: 50%;
+    top: -15vh;
+    margin: 0 auto;
+}
+.marginmin{
+    margin-top: -10vh;
+}
